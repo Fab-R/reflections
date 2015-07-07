@@ -1,3 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 It becomes a git repository. I need it to start doing my commits!
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It is just a temporary area, on which I can't run  all the git commands that work on working directory and the repository instead. 
+It is useful because if I am not sure about the commit I want to make, I can always reset everything and start again.
