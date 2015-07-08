@@ -25,3 +25,8 @@ We get a new branch, including :
 -common lines;
 -new lines added either by one author or the other(s).
 A diagram helps us to visualize better the commits we made.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+pros : time saver (you don't have to manually change lines and lines of code, eventually)
+cons : you may get unexpected results.
