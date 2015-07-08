@@ -18,3 +18,10 @@ Not sure. Again.
 How do the diagrams help you visualize the branch structure?
 
 They help me because I can understand more clearly what commits I made through the various branches. I can therefore make better decisions for my project.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+We get a new branch, including :
+-common lines;
+-new lines added either by one author or the other(s).
+A diagram helps us to visualize better the commits we made.
