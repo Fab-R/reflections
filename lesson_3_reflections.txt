@@ -10,4 +10,8 @@ Describe the differences between forks, clones, and branches. When would you use
 
 Forks : they're like clones, but they exist only on repositories specifically provided by Github.
 Clones: unlike forks, they can be referred to any repository.
-Branches : do not have anything in common with forks and clones. Git clone and git fork operate on branches. They're different concepts 
+Branches : do not have anything in common with forks and clones. Git clone and git fork operate on branches. They're different concepts
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+If you screw up something with your branch, you can always return to the previous (correct) state of your work. Quite cool. 
